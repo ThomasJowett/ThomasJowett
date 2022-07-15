@@ -35,6 +35,9 @@
 <br />
 <br />
 
+[![ThomasJowett's github stats](https://github-readme-stats.vercel.app/api?username=ThomasJowett&show_icons=true&border_color=ffffff&include_all_commits=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasJowett&border_color=ffffff&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://thomasjowett.weebly.com
 [twitter]: https://twitter.com/Thomas_Jowett
 [youtube]: https://www.youtube.com/channel/UC2G3g9UPtBYuIEetgB5VbPw

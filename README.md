@@ -1,6 +1,3 @@
-### Hi there, I'm Thomas Jowett
-[![Twitter Follow](https://img.shields.io/twitter/follow/ThomasJowett?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthomas_jowett&screen_name=thomas_jowett)
-
 [<img align="left" width="128px" src="https://github.com/ThomasJowett/Cross-Platform-Game-Engine/blob/master/Editor/resources/Icons/Logo.png"/>][gameengine]
 
 ## I'm a C++ developer
@@ -37,6 +34,8 @@
 
 [![ThomasJowett's github stats](https://github-readme-stats.vercel.app/api?username=ThomasJowett&show_icons=true&border_color=ffffff&include_all_commits=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasJowett&border_color=ffffff&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ThomasJowett?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthomas_jowett&screen_name=thomas_jowett)
 
 [website]: https://thomasjowett.weebly.com
 [twitter]: https://twitter.com/Thomas_Jowett

@@ -1,4 +1,4 @@
-[<img align="left" width="128px" src="https://github.com/ThomasJowett/Cross-Platform-Game-Engine/blob/master/Editor/resources/Icons/Logo.png"/>][gameengine]
+[<img align="left" width="128px" src="https://github.com/ThomasJowett/Cross-Platform-Game-Engine/blob/master/Editor/data/Icons/Logo.png"/>][gameengine]
 
 ## I'm a C++ developer
 #### Currently working on a Cross platform game engine using OpenGL running on Windows and Linux
